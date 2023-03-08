@@ -1,7 +1,4 @@
 import java.io.File;
-/*
- * NEEDS TO BE UPLOADED TO GITHUB EVENTUALLY
- */
 
 /**
  * FOR VSCODE:
